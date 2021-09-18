@@ -1,5 +1,5 @@
 # SQL-LetsCar-LetsCode
-Final project on Let's Code/U.Code course, where we made a SQL Database for a Car Dealership
+Project on Let's Code/U.Code course, where we made a SQL Database for a Car Dealership
 
 A empresa Let’s Car nos procurou para construir uma nova plataforma para seu negócio de venda de carros.
 Atualmente, a empresa faz venda de carros em um espaço físico, porém com a pandemia, as vendas caíram muito e a diretoria está apostando muito nas plataformas online.
