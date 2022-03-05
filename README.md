@@ -23,7 +23,7 @@ o Edição; e
 
 o Selects, necessários para o funcionamento do sistema.
 
-Lembrem-se de utilizar:
+Utilizar:
 • Regras de normalização de dados
 • PKs
 • FKs
