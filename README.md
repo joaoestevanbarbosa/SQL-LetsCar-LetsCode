@@ -31,5 +31,5 @@ Utilizar:
 • Agregações
 
 
-DIagrama Entidade Relacionamento (DER)
+Diagrama Entidade Relacionamento (DER)
 ![DER](https://user-images.githubusercontent.com/85952745/133908262-f66cc2f2-9bd1-4ee6-b3ce-3bf60321c731.jpg)
